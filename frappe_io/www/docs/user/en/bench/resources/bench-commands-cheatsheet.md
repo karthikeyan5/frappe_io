@@ -52,6 +52,7 @@
   * `add-domain `  add custom domain for site
   * `firewall `    setup firewall and block all ports except 22, 80 and 443
   * `ssh-port `    change the default ssh connection port
+* `bench set-nginx-port [sitename] [port]` - Set site's port in Production
 
 
 ###Development
